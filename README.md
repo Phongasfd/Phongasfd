@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phongasfd&label=Profile%20views&color=0e75b6&style=flat" alt="phongasfd" /> </p>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L5iCpBsEJN3E59BbxU/giphy.gif">
 
-- 🌱 I’m currently learning **HTML5, CSS, C++**
+- 🌱 I’m currently learning **HTML5, CSS, JavaScript, Java, Python, C++**
 
 - 📫 How to reach me **nguyennamphong210@gmail.com**
 
