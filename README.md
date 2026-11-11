@@ -92,19 +92,6 @@ I specialize in building scalable backend systems using **Java, Spring Boot, Pos
 
 ---
 
-## 💼 Professional Experience
-
-**Software Engineer Intern – Antmas**  
-*April 2026 – September 2026 | Hanoi, Vietnam*
-
-- Developed backend services using Java, Spring Boot, and Spring MVC.
-- Designed and implemented RESTful APIs with SQL query optimization and database indexing.
-- Participated in requirements analysis and technical design for enterprise ERP applications.
-- Developed Python and Bash utilities for deployment automation, log monitoring, and system checks.
-- Automated internal data processing and reporting workflows.
-
----
-
 ## 📊 GitHub Statistics
 
 <p align="center">
